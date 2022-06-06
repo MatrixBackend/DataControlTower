@@ -2,7 +2,7 @@
 
 This project was developed and coded by Keanu Vengco.
 
-The Jupyter Notebook file demonstrates data engineering and query analysis on air flight data.
+The Jupyter Notebook file demonstrates data engineering and query analysis on flight data.
 It was created within the framework of the final project for the course 'Data Knowledge and Engineering' at the Vienna University of Business and Economics.
 For the sake of this repository certain features were extended and/or left out.
 
